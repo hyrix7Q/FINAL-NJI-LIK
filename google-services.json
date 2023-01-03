@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675953883746",
+    "project_id": "testpush-659ce",
+    "storage_bucket": "testpush-659ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675953883746:android:09bb3add34dcfdc6b3ef3b",
+        "android_client_info": {
+          "package_name": "com.testpushitis.zikou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675953883746-t6lqhu6q4t0cj94gr99t4bhfjarud0rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcgIxO_v4CFrfXZMk1eMtMgt9fqWe2-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675953883746-t6lqhu6q4t0cj94gr99t4bhfjarud0rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
